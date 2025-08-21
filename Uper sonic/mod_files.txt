@@ -1,6 +1,4 @@
-add disk/bb/cmn200.ar.00
-add disk/bb/cmn200.ar.01
-add disk/bb/cmn200.ar.1
-add disk/bb3/voices/English/SonicVoice.ar.00
-add disk/bb3/voices/English/SonicVoice.ar1
+
+delete disk/bb3/voices/English/SonicVoice.ar.00
+delete disk/bb3/voices/English/SonicVoice.ar1
 add mod.ini
