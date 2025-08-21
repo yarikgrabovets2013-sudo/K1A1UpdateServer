@@ -7,3 +7,5 @@
   
 ## Test Update Server V1.6
 - First Release super sonic
+## Test Update Server V1.9
+- sonic Frontiers %100
